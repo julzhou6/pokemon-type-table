@@ -1,0 +1,13 @@
+.container {
+    display: flex;
+}
+
+table {
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 1px solid grey;
+    padding: 1rem 1rem;
+}

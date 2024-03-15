@@ -1,0 +1,11 @@
+{
+  "name": "pokemon-type-table",
+  "version": "1.0.0",
+  "description": "A responsive table that viewing pokemon type effectiveness",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Julie Zhou",
+  "license": "ISC"
+}
